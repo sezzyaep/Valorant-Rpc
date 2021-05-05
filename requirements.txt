@@ -1,0 +1,13 @@
+Pillow
+win10toast 
+pystray 
+python-dotenv 
+psutil
+asyncio
+nest_asyncio
+urllib3
+flask
+pypresence
+pyinstaller
+iso8601
+aiohttp
